@@ -1,2 +1,5 @@
 .venv
 .env
+build
+llm_zoomcamp_code.egg-info
+Module 2/homework/
